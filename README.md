@@ -3,16 +3,19 @@
 
 [![Badge Element]][Matrix] 
 [![Badge MarkedDown]][MarkedDown] 
-[![Badge ToBeMaintained]][ToBeMaintained]
+[![Badge ToBeMaintained]][ToBeMaintained] 
+[![Badge SakuraNoKisetsu]][SakuraNoKisetsu]
 
 ![画布]
 
 <!----------------------------------------------------------------------------->
 
+[Badge SakuraNoKisetsu]: https://img.shields.io/static/v1?label=&message=SakuraNoKisetsu&color=e36d92&style=for-the-badge
 [Badge ToBeMaintained]: https://img.shields.io/badge/ToBeMaintained-ed6d46?style=for-the-badge
 [Badge MarkedDown]: https://img.shields.io/badge/MarkedDown-00B2FF?style=for-the-badge
 [Badge Element]: https://img.shields.io/static/v1?label=&message=Element&color=0dbd8b&style=for-the-badge
 
+[SakuraNoKisetsu]: https://github.com/SakuraNoKisetsu
 [ToBeMaintained]: https://github.com/ToBeMaintained
 [MarkedDown]: https://github.com/MarkedDown
 [Matrix]: https://matrix.to/#/@electronicsarchive:matrix.org
