@@ -10,7 +10,7 @@
 
 <!----------------------------------------------------------------------------->
 
-[Badge SakuraNoKisetsu]: https://img.shields.io/badge/SakuraNoKisetsu-e36d92?style=for-the-badge&logoColor=white&logo=AdBlock
+[Badge SakuraNoKisetsu]: https://img.shields.io/badge/SakuraNoKisetsu-e36d92?style=for-the-badge&logoColor=white&logo=Git
 [Badge ToBeMaintained]: https://img.shields.io/badge/ToBeMaintained-ed6d46?style=for-the-badge&logoColor=white&logo=Alfred
 [Badge MarkedDown]: https://img.shields.io/badge/MarkedDown-00B2FF?style=for-the-badge&logoColor=white&logo=Markdown
 [Badge Element]: https://img.shields.io/badge/Element-0dbd8b?style=for-the-badge&logoColor=white&logo=Matrix
