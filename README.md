@@ -32,8 +32,8 @@
 
 <!---------------------------------[ Cards ]----------------------------------->
 
-[Card Licenses]: https://github-readme-stats.vercel.app/api/pin/?username=MarkedDown&repo=Licenses&hide_border=true&show_icons=true&border_color=c84f8c&bg_color=00b2ff&border_radius=8&title_color=FFFFFF&text_color=EEEEEE&icon_color=14729b
-[Card Buttons]: https://github-readme-stats.vercel.app/api/pin/?username=MarkedDown&repo=Buttons&hide_border=true&show_icons=true&border_color=c84f8c&bg_color=0dbd8b&border_radius=8&title_color=FFFFFF&text_color=EEEEEE&icon_color=0d6c51
+[Card Licenses]: https://github-readme-stats.vercel.app/api/pin/?username=MarkedDown&repo=Licenses&hide_border=true&show_icons=true&border_color=c84f8c&bg_color=0dbd8b&border_radius=8&title_color=FFFFFF&text_color=EEEEEE&icon_color=0d6c51
+[Card Buttons]: https://github-readme-stats.vercel.app/api/pin/?username=MarkedDown&repo=Buttons&hide_border=true&show_icons=true&border_color=c84f8c&bg_color=00b2ff&border_radius=8&title_color=FFFFFF&text_color=EEEEEE&icon_color=14729b
 
 
 <!--------------------------------[ Badges ]----------------------------------->
