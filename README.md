@@ -1,11 +1,14 @@
 
 <div align = center>
 
+![バナー]
+
 [![Badge Element]][Matrix]   
 [![Badge MarkedDown]][MarkedDown]   
 [![Badge ToBeMaintained]][ToBeMaintained]   
 [![Badge SakuraNoKisetsu]][SakuraNoKisetsu]
 
+<br>
 
 ![画布]
 
@@ -17,6 +20,7 @@
 
 <!----------------------------------------------------------------------------->
 
+[バナー]: ファイル/バナー.png
 [画布]: ファイル/画布.png
 
 [SakuraNoKisetsu]: https://github.com/SakuraNoKisetsu
