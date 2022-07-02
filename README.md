@@ -8,8 +8,6 @@
 [![Badge ToBeMaintained]][ToBeMaintained]   
 [![Badge SakuraNoKisetsu]][SakuraNoKisetsu]
 
-<br>
-
 ![バナー]
 
 ![画布]
