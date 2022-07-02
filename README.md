@@ -3,9 +3,9 @@
 
 <br>
 
-[![Badge Element]][Matrix]   
-[![Badge MarkedDown]][MarkedDown]   
-[![Badge ToBeMaintained]][ToBeMaintained]   
+[![Badge Element]][Matrix]     
+[![Badge MarkedDown]][MarkedDown]     
+[![Badge ToBeMaintained]][ToBeMaintained]     
 [![Badge SakuraNoKisetsu]][SakuraNoKisetsu]
 
 ![バナー]
