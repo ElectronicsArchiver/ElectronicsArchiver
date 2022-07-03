@@ -12,7 +12,7 @@
 
 ![画布]
 
-[![Card Licenses]][Licenses]          
+[![Card Licenses]][Licenses]         
 [![Card Buttons]][Buttons]
 
 
