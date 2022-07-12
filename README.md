@@ -12,7 +12,7 @@
 
 ![画布]
 
-[![Card Licenses]][Licenses]          
+[![Card Licenses]][Licenses]         
 [![Card Buttons]][Buttons]
 
 
@@ -47,3 +47,8 @@
 [Badge NexusMods]: https://img.shields.io/badge/NexusMods-ed6d46?style=for-the-badge&logoColor=white&logo=Naver
 [Badge MarkedDown]: https://img.shields.io/badge/MarkedDown-00B2FF?style=for-the-badge&logoColor=white&logo=Markdown
 [Badge Element]: https://img.shields.io/badge/Element-0dbd8b?style=for-the-badge&logoColor=white&logo=Matrix
+
+
+<!------------------------------[ Verification ]------------------------------->
+
+<a rel = 'me' href = 'https://mastodon.social/@ElectronicsArchiver'></a>
