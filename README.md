@@ -5,7 +5,7 @@
 
 [![Badge Element]][Matrix]     
 [![Badge MarkedDown]][MarkedDown]     
-[![Badge ToBeMaintained]][ToBeMaintained]     
+[![Badge NexusMods]][NexusMods]     
 [![Badge SakuraNoKisetsu]][SakuraNoKisetsu]
 
 ![バナー]
@@ -25,8 +25,8 @@
 [画布]: ファイル/画布.png
 
 [SakuraNoKisetsu]: https://github.com/SakuraNoKisetsu
-[ToBeMaintained]: https://github.com/ToBeMaintained 
 [MarkedDown]: https://github.com/MarkedDown 'How to better use Markdown'
+[NexusMods]: https://www.nexusmods.com/users/152690878
 [Matrix]: https://matrix.to/#/@electronicsarchive:matrix.org 'My Matrix Profile'
 
 [Licenses]: https://github.com/MarkedDown/Licenses
@@ -44,6 +44,6 @@
 <!--------------------------------[ Badges ]----------------------------------->
 
 [Badge SakuraNoKisetsu]: https://img.shields.io/badge/SakuraNoKisetsu-e36d92?style=for-the-badge&logoColor=white&logo=Git
-[Badge ToBeMaintained]: https://img.shields.io/badge/ToBeMaintained-ed6d46?style=for-the-badge&logoColor=white&logo=Alfred
+[Badge NexusMods]: https://img.shields.io/badge/NexusMods-ed6d46?style=for-the-badge&logoColor=white&logo=Naver
 [Badge MarkedDown]: https://img.shields.io/badge/MarkedDown-00B2FF?style=for-the-badge&logoColor=white&logo=Markdown
 [Badge Element]: https://img.shields.io/badge/Element-0dbd8b?style=for-the-badge&logoColor=white&logo=Matrix
