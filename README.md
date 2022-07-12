@@ -3,12 +3,16 @@
 
 <br>
 
-[![Badge Element]][Matrix]     
-[![Badge MarkedDown]][MarkedDown]     
-[![Badge NexusMods]][NexusMods]     
+[![Badge Element]][Matrix]         
+[![Badge MarkedDown]][MarkedDown]         
+[![Badge NexusMods]][NexusMods]         
 [![Badge SakuraNoKisetsu]][SakuraNoKisetsu]
 
+<br>
+
 ![バナー]
+
+<br>
 
 ![画布]
 
@@ -44,7 +48,7 @@
 <!--------------------------------[ Badges ]----------------------------------->
 
 [Badge SakuraNoKisetsu]: https://img.shields.io/badge/SakuraNoKisetsu-e36d92?style=for-the-badge&logoColor=white&logo=Git
-[Badge NexusMods]: https://img.shields.io/badge/NexusMods-ed6d46?style=for-the-badge&logoColor=white&logo=Naver
+[Badge NexusMods]: https://img.shields.io/badge/ＮｅｘｕｓMods-ed6d46?style=for-the-badge&logoColor=white&logo=Naver
 [Badge MarkedDown]: https://img.shields.io/badge/MarkedDown-00B2FF?style=for-the-badge&logoColor=white&logo=Markdown
 [Badge Element]: https://img.shields.io/badge/Element-0dbd8b?style=for-the-badge&logoColor=white&logo=Matrix
 
