@@ -14,6 +14,10 @@
 
 <br>
 
+[![Badge Mastodon]][Mastodon]
+
+<br>
+
 ![画布]
 
 [![Card Licenses]][Licenses]         
@@ -31,6 +35,7 @@
 [SakuraNoKisetsu]: https://github.com/SakuraNoKisetsu
 [MarkedDown]: https://github.com/MarkedDown 'How to better use Markdown'
 [NexusMods]: https://www.nexusmods.com/users/152690878
+[Mastodon]: https://mastodon.social/@ElectronicsArchiver
 [Matrix]: https://matrix.to/#/@electronicsarchive:matrix.org 'My Matrix Profile'
 
 [Licenses]: https://github.com/MarkedDown/Licenses
@@ -48,10 +53,10 @@
 <!--------------------------------[ Badges ]----------------------------------->
 
 [Badge SakuraNoKisetsu]: https://img.shields.io/badge/SakuraNoKisetsu-e36d92?style=for-the-badge&logoColor=white&logo=Git
-[Badge NexusMods]: https://img.shields.io/badge/ＮｅｘｕｓMods-ed6d46?style=for-the-badge&logoColor=white&logo=Naver
 [Badge MarkedDown]: https://img.shields.io/badge/MarkedDown-00B2FF?style=for-the-badge&logoColor=white&logo=Markdown
+[Badge NexusMods]: https://img.shields.io/badge/ＮｅｘｕｓMods-ed6d46?style=for-the-badge&logoColor=white&logo=Naver
+[Badge Mastodon]: https://img.shields.io/mastodon/follow/108635789259150706?labelColor=3088D4&color=246fb1&domain=https%3A%2F%2Fmastodon.social&label=Mastodon&logo=Mastodon&logoColor=FFFFFF&style=for-the-badge
 [Badge Element]: https://img.shields.io/badge/Element-0dbd8b?style=for-the-badge&logoColor=white&logo=Matrix
-
 
 <!------------------------------[ Verification ]------------------------------->
 
