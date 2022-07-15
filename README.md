@@ -10,7 +10,7 @@
 
 <br>
 
-![バナー]
+![_]
 
 <br>
 <br>
@@ -33,6 +33,7 @@
 
 [バナー]: ファイル/バナー.png
 [画布]: ファイル/画布.png
+[_]: ファイル/_.gif
 
 [SakuraNoKisetsu]: https://github.com/SakuraNoKisetsu
 [MarkedDown]: https://github.com/MarkedDown 'How to better use Markdown'
