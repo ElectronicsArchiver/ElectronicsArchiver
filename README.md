@@ -60,7 +60,7 @@
 [Badge MarkedDown]: https://img.shields.io/badge/MarkedDown-00B2FF?style=for-the-badge&logoColor=white&logo=Markdown
 [Badge NexusMods]: https://img.shields.io/badge/ＮｅｘｕｓMods-ed6d46?style=for-the-badge&logoColor=white&logo=Naver
 [Badge Mastodon]: https://img.shields.io/mastodon/follow/108635789259150706?labelColor=c84f8c&color=7e3f5f&domain=https%3A%2F%2Fmastodon.social&label=Mastodon&logo=Mastodon&logoColor=FFFFFF&style=for-the-badge
-[Badge Element]: https://img.shields.io/badge/Element-0dbd8b?style=for-the-badge&logoColor=white&logo=Matrix
+[Badge Element]: https://img.shields.io/badge/Matrix-0dbd8b?style=for-the-badge&logoColor=white&logo=Matrix
 [Badge Twitter]: https://img.shields.io/twitter/follow/ElectroArchiver?labelColor=c84f8c&color=7e3f5f&label=Twitter&logo=Twitter&logoColor=FFFFFF&style=for-the-badge
 
 
