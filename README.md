@@ -57,12 +57,13 @@
 
 <!--------------------------------[ Badges ]----------------------------------->
 
-[Badge SakuraNoKisetsu]: https://img.shields.io/badge/SakuraNoKisetsu-b55976?style=for-the-badge&logoColor=white&logo=Git&labelColor=e36d92
-[Badge MarkedDown]: https://img.shields.io/badge/MarkedDown-0397d7?style=for-the-badge&logoColor=white&logo=Markdown&labelColor=00b2ff
-[Badge NexusMods]: https://img.shields.io/badge/ＮｅｘｕｓMods-c75c3c?style=for-the-badge&logoColor=white&logo=Naver&labelColor=ed6d46
+[Badge SakuraNoKisetsu]: https://img.shields.io/badge/SakuraNoKisetsu-e36d92?style=for-the-badge&logoColor=white&logo=Git&
+[Badge MarkedDown]: https://img.shields.io/badge/MarkedDown-00b2ff?style=for-the-badge&logoColor=white&logo=Markdown
+[Badge NexusMods]: https://img.shields.io/badge/ＮｅｘｕｓMods-ed6d46?style=for-the-badge&logoColor=white&logo=Naver
+[Badge Element]: https://img.shields.io/badge/Matrix-0dbd8b?style=for-the-badge&logoColor=white&logo=Matrix
+
 [Badge Mastodon]: https://img.shields.io/mastodon/follow/108635789259150706?color=24659d&domain=https%3A%2F%2Fmastodon.social&label=Mastodon&logo=Mastodon&logoColor=FFFFFF&style=for-the-badge&labelColor=3088D4
 [Badge Sponsors]: https://img.shields.io/github/sponsors/ElectronicsArchiver?labelColor=e36d92&logo=GitHubSponsors&logoColor=FFFFFF&style=for-the-badge&color=b55976
-[Badge Element]: https://img.shields.io/badge/Matrix-0b9970?style=for-the-badge&logoColor=white&logo=Matrix&labelColor=0dbd8b
 [Badge Twitter]: https://img.shields.io/twitter/follow/ElectroArchiver?color=1378b7&label=Twitter&logo=Twitter&logoColor=FFFFFF&style=for-the-badge&labelColor=1DA1F2
 
 <!------------------------------[ Verification ]------------------------------->
