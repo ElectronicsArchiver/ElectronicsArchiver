@@ -5,7 +5,7 @@
 
 [![Badge Element]][Matrix]         
 [![Badge MarkedDown]][MarkedDown]         
-[![Badge NexusMods]][NexusMods]         
+[![Badge OpenlyEducated]][OpenlyEducated]         
 [![Badge SakuraNoKisetsu]][SakuraNoKisetsu]
 
 <br>
@@ -40,6 +40,7 @@
 [#]: #
 
 [SakuraNoKisetsu]: https://github.com/SakuraNoKisetsu
+[OpenlyEducated]: https://github.com/OpenlyEducated
 [MarkedDown]: https://github.com/MarkedDown 'How to better use Markdown'
 [NexusMods]: https://www.nexusmods.com/users/152690878
 [Mastodon]: https://mastodon.social/@ElectronicsArchiver
@@ -62,8 +63,8 @@
 <!--------------------------------[ Badges ]----------------------------------->
 
 [Badge SakuraNoKisetsu]: https://img.shields.io/badge/SakuraNoKisetsu-e36d92?style=for-the-badge&logoColor=white&logo=Git&
+[Badge OpenlyEducated]: https://img.shields.io/badge/OpenlyＥｄｕｃａｔｅｄ-ed6d46?style=for-the-badge&logoColor=white&logo=GitBook
 [Badge MarkedDown]: https://img.shields.io/badge/MarkedDown-00b2ff?style=for-the-badge&logoColor=white&logo=Markdown
-[Badge NexusMods]: https://img.shields.io/badge/ＮｅｘｕｓMods-ed6d46?style=for-the-badge&logoColor=white&logo=Naver
 [Badge Element]: https://img.shields.io/badge/Matrix-0dbd8b?style=for-the-badge&logoColor=white&logo=Matrix
 
 [Badge Mastodon]: https://img.shields.io/mastodon/follow/108635789259150706?color=24659d&domain=https%3A%2F%2Fmastodon.social&label=Mastodon&logo=Mastodon&logoColor=FFFFFF&style=for-the-badge&labelColor=3088D4
