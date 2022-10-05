@@ -62,9 +62,9 @@
 
 <!--------------------------------[ Badges ]----------------------------------->
 
-[Badge SakuraNoKisetsu]: https://img.shields.io/badge/SakuraNoKisetsu-e36d92?style=for-the-badge&logoColor=white&logo=Git&
+[Badge SakuraNoKisetsu]: https://img.shields.io/badge/ＳａｋｕｒａNoKisetsu-e36d92?style=for-the-badge&logoColor=white&logo=Git&
 [Badge OpenlyEducated]: https://img.shields.io/badge/OpenlyＥｄｕｃａｔｅｄ-ed6d46?style=for-the-badge&logoColor=white&logo=GitBook
-[Badge MarkedDown]: https://img.shields.io/badge/MarkedDown-00b2ff?style=for-the-badge&logoColor=white&logo=Markdown
+[Badge MarkedDown]: https://img.shields.io/badge/ＭａｒｋｅｄDown-00b2ff?style=for-the-badge&logoColor=white&logo=Markdown
 [Badge Element]: https://img.shields.io/badge/Matrix-0dbd8b?style=for-the-badge&logoColor=white&logo=Matrix
 
 [Badge Mastodon]: https://img.shields.io/mastodon/follow/108635789259150706?color=24659d&domain=https%3A%2F%2Fmastodon.social&label=Mastodon&logo=Mastodon&logoColor=FFFFFF&style=for-the-badge&labelColor=3088D4
