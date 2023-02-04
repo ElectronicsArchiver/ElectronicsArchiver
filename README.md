@@ -3,7 +3,7 @@
 
 <br>
 
-<kbd> <br> **Let me know if you need help with your documentation.** <br> </kbd>
+<kbd> <br> **@Me if you need help with your documentation.** <br> </kbd>
 
 <br>
 <br>
