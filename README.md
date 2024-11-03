@@ -3,6 +3,8 @@
 
 <br>
 
+<!--
+
 <kbd> <br> **@Me if you need help with your documentation.** <br> </kbd>
 
 <br>
@@ -20,12 +22,16 @@
 <br>
 <br>
 
+
+
 [![Badge Twitter]][Twitter]         
 [![Badge Mastodon]][Mastodon]         
 [![Badge Kofi]][Kofi]         
 [![Badge Sponsors]][Sponsors]
 
 <br>
+
+-->
 
 ![画布]
 
